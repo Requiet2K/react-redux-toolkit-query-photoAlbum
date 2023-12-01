@@ -1,0 +1,11 @@
+.topAlignment{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.panelDiv{
+    background-color: lightgrey;
+    border-radius: 30px;
+}

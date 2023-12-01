@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ozkan"
+    },
+    {
+      "id": 2,
+      "name": "Hatice"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Adana",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Bronze Shirt",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Handmade Concrete Soap",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Wooden Gloves",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Steel Mouse",
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/R7QwVdPHx/150/150",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150?lock=8405487133392896",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150?lock=2201376738246656",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/cPNzDzp/150/150",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/VfktoBn/150/150",
+      "id": 6
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/w2JlxrL/150/150",
+      "id": 7
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/JLAkMWcM5/150/150",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150?lock=397412938022912",
+      "id": 9
+    }
+  ]
+}
